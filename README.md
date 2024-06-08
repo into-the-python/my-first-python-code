@@ -1,4 +1,5 @@
 # my-first-python-code
 Ini adalah project pertama saya menggunakan Python
 
-Bismillah with SSH
+Bismillah with SSH!!!
+Semangat boskuh
